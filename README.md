@@ -78,12 +78,6 @@
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neuralstackdev0216&theme=tokyo-night&hide_border=true)
-
----
-
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-neuralstackdev0216-181717?style=for-the-badge&logo=github)](https://github.com/neuralstackdev0216)
