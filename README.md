@@ -12,7 +12,7 @@
 - 🛠️ Working on personal, academic, and team-based software projects
 - 🌱 Currently starting my journey in Artificial Intelligence and Machine Learning
 - ⚙️ Currently learning CI/CD and exploring DevOps fundamentals
-- 📱 Interested in Web Development, Mobile Application Development, Backend Development, and AI/ML
+- 🌐 Interested in Web Development, Mobile Application Development, Backend Development, and AI/ML
 - ⚡ I enjoy learning new technologies by building practical projects
 
 ---
@@ -57,17 +57,17 @@
 ## 🌱 Currently Learning
 
 - 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Python for AI/ML
 - 🔄 CI/CD
 - ⚙️ DevOps Fundamentals
-- 🐍 Python for AI/ML
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neuralstackdev0216&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neuralstackdev0216&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neuralstackdev0216&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neuralstackdev0216&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -87,4 +87,4 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-neuralstackdev0216-181717?style=for-the-badge&logo=github)](https://github.com/neuralstackdev0216)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vadivel-dilshan/)
